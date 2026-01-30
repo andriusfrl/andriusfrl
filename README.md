@@ -1,9 +1,6 @@
 ## Hi there 👋
-<p align="center">
-  <div style="border-radius: 16px; overflow: hidden; width: 500px;">
-    <img src="https://yt3.googleusercontent.com/m_MB3AN156x4tKjGb2jZFS57LoEu8jVavU8Kz3hjmRyTN0cpsSoxcn7T9owRDH1qlngENmY_sQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" width="500">
-  </div>
-</p>
+<img width="1707" height="282" alt="image" src="https://github.com/user-attachments/assets/75255c46-8747-4365-9620-494410c3a61b" />
+
 
 **AndriusFrl/andriusfrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
